@@ -5,34 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\controllers\\autorizacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:controllers\\autorizacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\dto\\usuariotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:dto\\usuariotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|c:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\barbearia.api\\barbearia.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{305D194F-CBB5-4BDE-91E5-F06D5171F415}|Barbearia.API.csproj|solutionrelative:barbearia.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServicoController.cs",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Controllers\\ServicoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ServicoController.cs",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Controllers\\ServicoController.cs",
-              "RelativeToolTip": "Controllers\\ServicoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:41:39.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutorizaController.cs",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Controllers\\AutorizaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AutorizaController.cs",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Controllers\\AutorizaController.cs",
-              "RelativeToolTip": "Controllers\\AutorizaController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:21:30.167Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -78,74 +24,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:35:32.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T01:33:52.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\DTO\\UsuarioDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\UsuarioDTO.cs",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\DTO\\UsuarioDTO.cs",
-              "RelativeToolTip": "DTO\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:14:05.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioToken.cs",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\DTO\\UsuarioToken.cs",
-              "RelativeDocumentMoniker": "DTO\\UsuarioToken.cs",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\DTO\\UsuarioToken.cs",
-              "RelativeToolTip": "DTO\\UsuarioToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:14:03.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T19:58:25.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Barbearia.API.http",
-              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Barbearia.API.http",
-              "RelativeDocumentMoniker": "Barbearia.API.http",
-              "ToolTip": "C:\\dev\\repos\\github\\curso.net8.web.api.restful2024\\Barbearia.API\\Barbearia.API.http",
-              "RelativeToolTip": "Barbearia.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-02T02:35:22.695Z",
+              "WhenOpened": "2024-09-03T14:56:46.451Z",
               "EditorCaption": ""
             }
           ]
